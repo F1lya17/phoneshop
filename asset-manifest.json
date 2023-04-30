@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phoneshop/static/css/main.7d4e6acb.css",
+    "main.js": "/phoneshop/static/js/main.01fe8daa.js",
+    "static/media/iphone.png": "/phoneshop/static/media/iphone.76e72d9fbb3247db96aa.png",
+    "index.html": "/phoneshop/index.html",
+    "static/media/basket.svg": "/phoneshop/static/media/basket.cf7d6af2be4dcec732e490d5593d77c3.svg",
+    "main.7d4e6acb.css.map": "/phoneshop/static/css/main.7d4e6acb.css.map",
+    "main.01fe8daa.js.map": "/phoneshop/static/js/main.01fe8daa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d4e6acb.css",
+    "static/js/main.01fe8daa.js"
+  ]
+}
